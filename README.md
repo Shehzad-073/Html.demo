@@ -11,6 +11,7 @@
 - Java
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms (DSA)
+- Spring Boot(Basics)
 - Git & GitHub
 - HTML, CSS, JavaScript (Basics)
 
