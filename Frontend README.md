@@ -10,6 +10,7 @@
 
 ## 📂 Projects
 - Mini Web Projects
+- Design a Adventure Website
 
 ---
 
